@@ -2,7 +2,7 @@
 This's a project I made during a Software Systems Design course that I'm pretty proud of, so I figured I'd post it here!
 For the exe, just run it and it'll open a little window with these controls:
 - Available $ textbox - Choose your starting capital
-- # of Decks to Use dropbox - the number of decks you'd like to populate the virtual shoe (combined deck) with
+- Number of Decks to Use dropbox - the number of decks you'd like to populate the virtual shoe (combined deck) with
 - Seed textbox - Choose a random seed to shuffle the cards with
 - Hit 17 - Dealer always hits (once) if their hand totals 17+
 - Soft 17 - Dealer always stands if their hand totals 17+
